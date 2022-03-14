@@ -8,4 +8,7 @@
 ```bash
 pyinstaller -F .\findEpicFreeGames.py
 ```
+![image](https://user-images.githubusercontent.com/79245908/158086337-dbe65c22-7266-4da5-8de6-371475c375dc.png)
+
+
 O(∩_∩)O
