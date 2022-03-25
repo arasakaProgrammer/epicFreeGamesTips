@@ -10,6 +10,7 @@
 pyinstaller -F .\findEpicFreeGames.py
 ```
 
+![image](https://user-images.githubusercontent.com/79245908/160161258-aea69ba3-cb54-4620-a1c7-d948483546ce.png)
 
 
 
