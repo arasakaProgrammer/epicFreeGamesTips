@@ -5,6 +5,9 @@
 
 我本人就是经常忘记领游戏，于是简单写了个获取免费游戏信息的小爬虫。
 
+##使用方式
+
+有Python环境直接运行即可
 或者用pyinstaller把它打包成独立的可执行文件，
 ```bash
 pyinstaller -F .\findEpicFreeGames.py
